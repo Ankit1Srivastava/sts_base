@@ -1,0 +1,416 @@
+2016-08-15 12:22:07,917 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sts.core:StsCore:0.0.1-SNAPSHOT @ F:\Project\ankit\StsCore\pom.xml.
+2016-08-15 12:22:07,917 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sts.core:StsCore:0.0.1-SNAPSHOT @ F:\Project\ankit\StsCore\pom.xml.
+2016-08-15 12:22:10,722 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.2.RELEASE/spring-context-4.3.2.RELEASE.pom
+2016-08-15 12:22:11,784 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.2.RELEASE/spring-context-4.3.2.RELEASE.pom
+2016-08-15 12:22:12,394 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.2.RELEASE/spring-aop-4.3.2.RELEASE.pom
+2016-08-15 12:22:13,878 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.2.RELEASE/spring-aop-4.3.2.RELEASE.pom
+2016-08-15 12:22:14,331 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.2.RELEASE/spring-beans-4.3.2.RELEASE.pom
+2016-08-15 12:22:15,269 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.2.RELEASE/spring-beans-4.3.2.RELEASE.pom
+2016-08-15 12:22:15,769 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.pom
+2016-08-15 12:22:16,706 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.pom
+2016-08-15 12:22:17,519 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.2.RELEASE/spring-expression-4.3.2.RELEASE.pom
+2016-08-15 12:22:18,472 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.2.RELEASE/spring-expression-4.3.2.RELEASE.pom
+2016-08-15 12:22:18,941 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.3.2.RELEASE/spring-context-support-4.3.2.RELEASE.pom
+2016-08-15 12:22:19,878 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.3.2.RELEASE/spring-context-support-4.3.2.RELEASE.pom
+2016-08-15 12:22:20,378 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.2.RELEASE/spring-tx-4.3.2.RELEASE.pom
+2016-08-15 12:22:21,410 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.2.RELEASE/spring-tx-4.3.2.RELEASE.pom
+2016-08-15 12:22:22,019 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.1.1.RELEASE/spring-security-web-4.1.1.RELEASE.pom
+2016-08-15 12:22:22,956 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.1.1.RELEASE/spring-security-web-4.1.1.RELEASE.pom
+2016-08-15 12:22:23,550 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.1.RELEASE/spring-framework-bom-4.3.1.RELEASE.pom
+2016-08-15 12:22:24,582 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.1.RELEASE/spring-framework-bom-4.3.1.RELEASE.pom
+2016-08-15 12:22:25,191 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.1.1.RELEASE/spring-security-core-4.1.1.RELEASE.pom
+2016-08-15 12:22:26,128 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.1.1.RELEASE/spring-security-core-4.1.1.RELEASE.pom
+2016-08-15 12:22:26,628 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.1.RELEASE/spring-aop-4.3.1.RELEASE.pom
+2016-08-15 12:22:27,660 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.1.RELEASE/spring-aop-4.3.1.RELEASE.pom
+2016-08-15 12:22:28,269 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.1.RELEASE/spring-beans-4.3.1.RELEASE.pom
+2016-08-15 12:22:29,191 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.1.RELEASE/spring-beans-4.3.1.RELEASE.pom
+2016-08-15 12:22:29,700 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.1.RELEASE/spring-core-4.3.1.RELEASE.pom
+2016-08-15 12:22:30,637 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.1.RELEASE/spring-core-4.3.1.RELEASE.pom
+2016-08-15 12:22:31,231 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.1.RELEASE/spring-context-4.3.1.RELEASE.pom
+2016-08-15 12:22:32,262 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.1.RELEASE/spring-context-4.3.1.RELEASE.pom
+2016-08-15 12:22:32,872 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.1.RELEASE/spring-expression-4.3.1.RELEASE.pom
+2016-08-15 12:22:33,794 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.1.RELEASE/spring-expression-4.3.1.RELEASE.pom
+2016-08-15 12:22:34,512 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.1.RELEASE/spring-web-4.3.1.RELEASE.pom
+2016-08-15 12:22:35,450 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.1.RELEASE/spring-web-4.3.1.RELEASE.pom
+2016-08-15 12:22:35,840 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth2/2.0.10.RELEASE/spring-security-oauth2-2.0.10.RELEASE.pom
+2016-08-15 12:22:36,919 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth2/2.0.10.RELEASE/spring-security-oauth2-2.0.10.RELEASE.pom
+2016-08-15 12:22:37,481 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth-parent/2.0.10.RELEASE/spring-security-oauth-parent-2.0.10.RELEASE.pom
+2016-08-15 12:22:39,137 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth-parent/2.0.10.RELEASE/spring-security-oauth-parent-2.0.10.RELEASE.pom
+2016-08-15 12:22:39,731 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.0.9.RELEASE/spring-beans-4.0.9.RELEASE.pom
+2016-08-15 12:22:40,669 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.0.9.RELEASE/spring-beans-4.0.9.RELEASE.pom
+2016-08-15 12:22:41,169 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.0.9.RELEASE/spring-core-4.0.9.RELEASE.pom
+2016-08-15 12:22:42,106 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.0.9.RELEASE/spring-core-4.0.9.RELEASE.pom
+2016-08-15 12:22:42,809 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.0.9.RELEASE/spring-context-4.0.9.RELEASE.pom
+2016-08-15 12:22:43,762 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.0.9.RELEASE/spring-context-4.0.9.RELEASE.pom
+2016-08-15 12:22:44,247 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.0.9.RELEASE/spring-aop-4.0.9.RELEASE.pom
+2016-08-15 12:22:45,169 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.0.9.RELEASE/spring-aop-4.0.9.RELEASE.pom
+2016-08-15 12:22:45,669 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.0.9.RELEASE/spring-expression-4.0.9.RELEASE.pom
+2016-08-15 12:22:46,606 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.0.9.RELEASE/spring-expression-4.0.9.RELEASE.pom
+2016-08-15 12:22:47,106 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.0.9.RELEASE/spring-webmvc-4.0.9.RELEASE.pom
+2016-08-15 12:22:48,044 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.0.9.RELEASE/spring-webmvc-4.0.9.RELEASE.pom
+2016-08-15 12:22:48,544 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.0.9.RELEASE/spring-web-4.0.9.RELEASE.pom
+2016-08-15 12:22:49,497 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.0.9.RELEASE/spring-web-4.0.9.RELEASE.pom
+2016-08-15 12:22:49,967 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/3.2.8.RELEASE/spring-security-core-3.2.8.RELEASE.pom
+2016-08-15 12:22:50,913 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/3.2.8.RELEASE/spring-security-core-3.2.8.RELEASE.pom
+2016-08-15 12:22:51,413 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.13.RELEASE/spring-aop-3.2.13.RELEASE.pom
+2016-08-15 12:22:52,444 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.13.RELEASE/spring-aop-3.2.13.RELEASE.pom
+2016-08-15 12:22:53,038 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.13.RELEASE/spring-beans-3.2.13.RELEASE.pom
+2016-08-15 12:22:53,929 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.13.RELEASE/spring-beans-3.2.13.RELEASE.pom
+2016-08-15 12:22:54,476 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.13.RELEASE/spring-core-3.2.13.RELEASE.pom
+2016-08-15 12:22:55,413 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.13.RELEASE/spring-core-3.2.13.RELEASE.pom
+2016-08-15 12:22:55,913 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.13.RELEASE/spring-context-3.2.13.RELEASE.pom
+2016-08-15 12:22:56,835 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.13.RELEASE/spring-context-3.2.13.RELEASE.pom
+2016-08-15 12:22:57,351 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.13.RELEASE/spring-expression-3.2.13.RELEASE.pom
+2016-08-15 12:22:58,491 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.13.RELEASE/spring-expression-3.2.13.RELEASE.pom
+2016-08-15 12:22:59,085 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/3.2.8.RELEASE/spring-security-config-3.2.8.RELEASE.pom
+2016-08-15 12:23:00,116 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/3.2.8.RELEASE/spring-security-config-3.2.8.RELEASE.pom
+2016-08-15 12:23:00,523 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/3.2.8.RELEASE/spring-security-web-3.2.8.RELEASE.pom
+2016-08-15 12:23:01,554 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/3.2.8.RELEASE/spring-security-web-3.2.8.RELEASE.pom
+2016-08-15 12:23:02,163 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.13.RELEASE/spring-web-3.2.13.RELEASE.pom
+2016-08-15 12:23:03,132 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.13.RELEASE/spring-web-3.2.13.RELEASE.pom
+2016-08-15 12:23:03,601 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2016-08-15 12:23:04,632 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2016-08-15 12:23:05,241 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2016-08-15 12:23:07,085 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2016-08-15 12:23:07,538 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.pom
+2016-08-15 12:23:08,851 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.pom
+2016-08-15 12:23:09,319 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.pom
+2016-08-15 12:23:10,257 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.pom
+2016-08-15 12:23:10,766 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth/2.0.10.RELEASE/spring-security-oauth-2.0.10.RELEASE.pom
+2016-08-15 12:23:11,797 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth/2.0.10.RELEASE/spring-security-oauth-2.0.10.RELEASE.pom
+2016-08-15 12:23:13,016 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.6.2/eclipselink-2.6.2.pom
+2016-08-15 12:23:13,953 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.6.2/eclipselink-2.6.2.pom
+2016-08-15 12:23:14,453 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.1/javax.persistence-2.1.1.pom
+2016-08-15 12:23:15,484 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.1/javax.persistence-2.1.1.pom
+2016-08-15 12:23:15,891 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1.pom
+2016-08-15 12:23:16,922 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1.pom
+2016-08-15 12:23:17,516 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.pom
+2016-08-15 12:23:18,578 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.pom
+2016-08-15 12:23:19,063 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/json/1.0.4/json-1.0.4.pom
+2016-08-15 12:23:20,109 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/json/1.0.4/json-1.0.4.pom
+2016-08-15 12:23:20,688 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-cors/3.1.7/cxf-rt-rs-security-cors-3.1.7.pom
+2016-08-15 12:23:21,625 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-cors/3.1.7/cxf-rt-rs-security-cors-3.1.7.pom
+2016-08-15 12:23:22,125 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-parent/3.1.7/cxf-parent-3.1.7.pom
+2016-08-15 12:23:24,281 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-parent/3.1.7/cxf-parent-3.1.7.pom
+2016-08-15 12:23:24,891 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf/3.1.7/cxf-3.1.7.pom
+2016-08-15 12:23:26,235 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf/3.1.7/cxf-3.1.7.pom
+2016-08-15 12:23:26,641 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-core/3.1.7/cxf-core-3.1.7.pom
+2016-08-15 12:23:27,563 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-core/3.1.7/cxf-core-3.1.7.pom
+2016-08-15 12:23:28,063 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.pom
+2016-08-15 12:23:29,000 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.pom
+2016-08-15 12:23:29,500 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.pom
+2016-08-15 12:23:30,438 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.pom
+2016-08-15 12:23:31,039 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ws/xmlschema/xmlschema-core/2.2.1/xmlschema-core-2.2.1.pom
+2016-08-15 12:23:32,071 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ws/xmlschema/xmlschema-core/2.2.1/xmlschema-core-2.2.1.pom
+2016-08-15 12:23:32,586 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ws/xmlschema/xmlschema/2.2.1/xmlschema-2.2.1.pom
+2016-08-15 12:23:33,508 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ws/xmlschema/xmlschema/2.2.1/xmlschema-2.2.1.pom
+2016-08-15 12:23:34,618 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/3.1.7/cxf-rt-frontend-jaxrs-3.1.7.pom
+2016-08-15 12:23:35,555 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/3.1.7/cxf-rt-frontend-jaxrs-3.1.7.pom
+2016-08-15 12:23:36,055 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.pom
+2016-08-15 12:23:37,196 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.pom
+2016-08-15 12:23:37,696 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2016-08-15 12:23:38,524 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2016-08-15 12:23:39,274 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/3.1.7/cxf-rt-transports-http-3.1.7.pom
+2016-08-15 12:23:40,055 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/3.1.7/cxf-rt-transports-http-3.1.7.pom
+2016-08-15 12:23:40,571 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-oauth2/3.1.7/cxf-rt-rs-security-oauth2-3.1.7.pom
+2016-08-15 12:23:41,493 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-oauth2/3.1.7/cxf-rt-rs-security-oauth2-3.1.7.pom
+2016-08-15 12:23:41,993 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-oauth-parent/3.1.7/cxf-rt-rs-security-oauth-parent-3.1.7.pom
+2016-08-15 12:23:42,946 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-oauth-parent/3.1.7/cxf-rt-rs-security-oauth-parent-3.1.7.pom
+2016-08-15 12:23:43,430 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-jose-jaxrs/3.1.7/cxf-rt-rs-security-jose-jaxrs-3.1.7.pom
+2016-08-15 12:23:44,352 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-jose-jaxrs/3.1.7/cxf-rt-rs-security-jose-jaxrs-3.1.7.pom
+2016-08-15 12:23:44,868 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-security/3.1.7/cxf-rt-security-3.1.7.pom
+2016-08-15 12:23:45,836 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-security/3.1.7/cxf-rt-security-3.1.7.pom
+2016-08-15 12:23:46,290 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-jose/3.1.7/cxf-rt-rs-security-jose-3.1.7.pom
+2016-08-15 12:23:47,227 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-jose/3.1.7/cxf-rt-rs-security-jose-3.1.7.pom
+2016-08-15 12:23:47,727 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-json-basic/3.1.7/cxf-rt-rs-json-basic-3.1.7.pom
+2016-08-15 12:23:48,758 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-json-basic/3.1.7/cxf-rt-rs-json-basic-3.1.7.pom
+2016-08-15 12:23:49,258 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-client/3.1.7/cxf-rt-rs-client-3.1.7.pom
+2016-08-15 12:23:50,196 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-client/3.1.7/cxf-rt-rs-client-3.1.7.pom
+2016-08-15 12:23:50,602 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thetransactioncompany/cors-filter/2.5/cors-filter-2.5.pom
+2016-08-15 12:23:51,736 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thetransactioncompany/cors-filter/2.5/cors-filter-2.5.pom
+2016-08-15 12:23:52,126 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thetransactioncompany/java-property-utils/1.9.1/java-property-utils-1.9.1.pom
+2016-08-15 12:23:53,064 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thetransactioncompany/java-property-utils/1.9.1/java-property-utils-1.9.1.pom
+2016-08-15 12:23:53,673 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.pom
+2016-08-15 12:23:54,595 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.pom
+2016-08-15 12:23:55,345 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.5/javax.mail-1.5.5.pom
+2016-08-15 12:23:56,236 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.5/javax.mail-1.5.5.pom
+2016-08-15 12:23:56,736 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/mail/all/1.5.5/all-1.5.5.pom
+2016-08-15 12:23:57,986 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/mail/all/1.5.5/all-1.5.5.pom
+2016-08-15 12:23:58,580 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.pom
+2016-08-15 12:23:59,611 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.pom
+2016-08-15 12:24:00,220 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-core/1.1.4.RELEASE/spring-social-core-1.1.4.RELEASE.pom
+2016-08-15 12:24:01,361 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-core/1.1.4.RELEASE/spring-social-core-1.1.4.RELEASE.pom
+2016-08-15 12:24:01,861 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.8.RELEASE/spring-web-4.1.8.RELEASE.pom
+2016-08-15 12:24:02,798 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.8.RELEASE/spring-web-4.1.8.RELEASE.pom
+2016-08-15 12:24:03,298 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.8.RELEASE/spring-aop-4.1.8.RELEASE.pom
+2016-08-15 12:24:04,220 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.8.RELEASE/spring-aop-4.1.8.RELEASE.pom
+2016-08-15 12:24:04,720 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.8.RELEASE/spring-beans-4.1.8.RELEASE.pom
+2016-08-15 12:24:05,658 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.8.RELEASE/spring-beans-4.1.8.RELEASE.pom
+2016-08-15 12:24:06,158 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.8.RELEASE/spring-core-4.1.8.RELEASE.pom
+2016-08-15 12:24:07,080 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.8.RELEASE/spring-core-4.1.8.RELEASE.pom
+2016-08-15 12:24:07,798 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.8.RELEASE/spring-context-4.1.8.RELEASE.pom
+2016-08-15 12:24:08,736 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.8.RELEASE/spring-context-4.1.8.RELEASE.pom
+2016-08-15 12:24:09,345 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.8.RELEASE/spring-expression-4.1.8.RELEASE.pom
+2016-08-15 12:24:10,267 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.8.RELEASE/spring-expression-4.1.8.RELEASE.pom
+2016-08-15 12:24:10,767 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-facebook/2.0.3.RELEASE/spring-social-facebook-2.0.3.RELEASE.pom
+2016-08-15 12:24:11,887 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-facebook/2.0.3.RELEASE/spring-social-facebook-2.0.3.RELEASE.pom
+2016-08-15 12:24:12,418 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.1/jackson-core-2.6.1.pom
+2016-08-15 12:24:13,340 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.1/jackson-core-2.6.1.pom
+2016-08-15 12:24:15,074 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.1/jackson-databind-2.6.1.pom
+2016-08-15 12:24:16,106 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.1/jackson-databind-2.6.1.pom
+2016-08-15 12:24:16,606 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.pom
+2016-08-15 12:24:17,543 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.pom
+2016-08-15 12:24:18,153 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-config/1.1.4.RELEASE/spring-social-config-1.1.4.RELEASE.pom
+2016-08-15 12:24:19,278 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-config/1.1.4.RELEASE/spring-social-config-1.1.4.RELEASE.pom
+2016-08-15 12:24:19,778 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-web/1.1.4.RELEASE/spring-social-web-1.1.4.RELEASE.pom
+2016-08-15 12:24:20,715 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-web/1.1.4.RELEASE/spring-social-web-1.1.4.RELEASE.pom
+2016-08-15 12:24:21,215 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.1.8.RELEASE/spring-webmvc-4.1.8.RELEASE.pom
+2016-08-15 12:24:22,153 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.1.8.RELEASE/spring-webmvc-4.1.8.RELEASE.pom
+2016-08-15 12:24:22,746 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.1/jackson-annotations-2.6.1.pom
+2016-08-15 12:24:23,778 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.1/jackson-annotations-2.6.1.pom
+2016-08-15 12:24:24,387 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-security/1.1.4.RELEASE/spring-social-security-1.1.4.RELEASE.pom
+2016-08-15 12:24:25,325 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-security/1.1.4.RELEASE/spring-social-security-1.1.4.RELEASE.pom
+2016-08-15 12:24:25,825 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/3.2.9.RELEASE/spring-security-web-3.2.9.RELEASE.pom
+2016-08-15 12:24:26,746 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/3.2.9.RELEASE/spring-security-web-3.2.9.RELEASE.pom
+2016-08-15 12:24:27,262 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/3.2.9.RELEASE/spring-security-core-3.2.9.RELEASE.pom
+2016-08-15 12:24:28,184 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/3.2.9.RELEASE/spring-security-core-3.2.9.RELEASE.pom
+2016-08-15 12:24:28,684 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-twitter/1.1.2.RELEASE/spring-social-twitter-1.1.2.RELEASE.pom
+2016-08-15 12:24:29,606 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-twitter/1.1.2.RELEASE/spring-social-twitter-1.1.2.RELEASE.pom
+2016-08-15 12:24:30,028 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-config/1.1.0.RELEASE/spring-social-config-1.1.0.RELEASE.pom
+2016-08-15 12:24:30,840 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-config/1.1.0.RELEASE/spring-social-config-1.1.0.RELEASE.pom
+2016-08-15 12:24:31,246 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-web/1.1.0.RELEASE/spring-social-web-1.1.0.RELEASE.pom
+2016-08-15 12:24:32,287 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-web/1.1.0.RELEASE/spring-social-web-1.1.0.RELEASE.pom
+2016-08-15 12:24:32,881 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-core/1.1.0.RELEASE/spring-social-core-1.1.0.RELEASE.pom
+2016-08-15 12:24:33,849 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-core/1.1.0.RELEASE/spring-social-core-1.1.0.RELEASE.pom
+2016-08-15 12:24:34,318 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.0.3.RELEASE/spring-web-4.0.3.RELEASE.pom
+2016-08-15 12:24:35,271 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.0.3.RELEASE/spring-web-4.0.3.RELEASE.pom
+2016-08-15 12:24:35,756 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.0.3.RELEASE/spring-aop-4.0.3.RELEASE.pom
+2016-08-15 12:24:36,896 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.0.3.RELEASE/spring-aop-4.0.3.RELEASE.pom
+2016-08-15 12:24:37,396 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.0.3.RELEASE/spring-beans-4.0.3.RELEASE.pom
+2016-08-15 12:24:38,318 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.0.3.RELEASE/spring-beans-4.0.3.RELEASE.pom
+2016-08-15 12:24:38,834 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.0.3.RELEASE/spring-core-4.0.3.RELEASE.pom
+2016-08-15 12:24:39,756 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.0.3.RELEASE/spring-core-4.0.3.RELEASE.pom
+2016-08-15 12:24:40,256 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE.pom
+2016-08-15 12:24:41,193 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE.pom
+2016-08-15 12:24:41,693 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.0.3.RELEASE/spring-expression-4.0.3.RELEASE.pom
+2016-08-15 12:24:42,615 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.0.3.RELEASE/spring-expression-4.0.3.RELEASE.pom
+2016-08-15 12:24:43,131 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE.pom
+2016-08-15 12:24:44,053 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE.pom
+2016-08-15 12:24:44,568 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/3.2.8.RELEASE/spring-security-crypto-3.2.8.RELEASE.pom
+2016-08-15 12:24:45,490 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/3.2.8.RELEASE/spring-security-crypto-3.2.8.RELEASE.pom
+2016-08-15 12:24:46,412 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.2.RELEASE/spring-context-4.3.2.RELEASE.jar
+2016-08-15 12:24:52,765 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.2.RELEASE/spring-context-4.3.2.RELEASE.jar
+2016-08-15 12:24:53,156 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.2.RELEASE/spring-aop-4.3.2.RELEASE.jar
+2016-08-15 12:24:56,046 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.2.RELEASE/spring-aop-4.3.2.RELEASE.jar
+2016-08-15 12:24:56,437 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.2.RELEASE/spring-beans-4.3.2.RELEASE.jar
+2016-08-15 12:25:00,140 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.2.RELEASE/spring-beans-4.3.2.RELEASE.jar
+2016-08-15 12:25:00,531 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.jar
+2016-08-15 12:25:05,343 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.jar
+2016-08-15 12:25:05,859 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.2.RELEASE/spring-expression-4.3.2.RELEASE.jar
+2016-08-15 12:25:07,687 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.2.RELEASE/spring-expression-4.3.2.RELEASE.jar
+2016-08-15 12:25:08,109 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.3.2.RELEASE/spring-context-support-4.3.2.RELEASE.jar
+2016-08-15 12:25:09,625 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.3.2.RELEASE/spring-context-support-4.3.2.RELEASE.jar
+2016-08-15 12:25:10,156 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.2.RELEASE/spring-tx-4.3.2.RELEASE.jar
+2016-08-15 12:25:11,812 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.2.RELEASE/spring-tx-4.3.2.RELEASE.jar
+2016-08-15 12:25:12,203 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.1.1.RELEASE/spring-security-web-4.1.1.RELEASE.jar
+2016-08-15 12:25:14,477 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.1.1.RELEASE/spring-security-web-4.1.1.RELEASE.jar
+2016-08-15 12:25:14,977 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.1.1.RELEASE/spring-security-core-4.1.1.RELEASE.jar
+2016-08-15 12:25:17,040 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.1.1.RELEASE/spring-security-core-4.1.1.RELEASE.jar
+2016-08-15 12:25:17,571 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.1.RELEASE/spring-web-4.3.1.RELEASE.jar
+2016-08-15 12:25:20,821 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.1.RELEASE/spring-web-4.3.1.RELEASE.jar
+2016-08-15 12:25:21,321 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth2/2.0.10.RELEASE/spring-security-oauth2-2.0.10.RELEASE.jar
+2016-08-15 12:25:23,899 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth2/2.0.10.RELEASE/spring-security-oauth2-2.0.10.RELEASE.jar
+2016-08-15 12:25:24,399 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.0.9.RELEASE/spring-webmvc-4.0.9.RELEASE.jar
+2016-08-15 12:25:27,790 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.0.9.RELEASE/spring-webmvc-4.0.9.RELEASE.jar
+2016-08-15 12:25:28,181 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/3.2.8.RELEASE/spring-security-config-3.2.8.RELEASE.jar
+2016-08-15 12:25:31,821 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/3.2.8.RELEASE/spring-security-config-3.2.8.RELEASE.jar
+2016-08-15 12:25:32,181 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2016-08-15 12:25:34,846 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2016-08-15 12:25:35,252 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar
+2016-08-15 12:25:40,377 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar
+2016-08-15 12:25:40,877 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar
+2016-08-15 12:25:42,830 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar
+2016-08-15 12:25:43,236 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth/2.0.10.RELEASE/spring-security-oauth-2.0.10.RELEASE.jar
+2016-08-15 12:25:44,893 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth/2.0.10.RELEASE/spring-security-oauth-2.0.10.RELEASE.jar
+2016-08-15 12:25:45,393 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.6.2/eclipselink-2.6.2.jar
+2016-08-15 12:26:16,847 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.6.2/eclipselink-2.6.2.jar
+2016-08-15 12:26:17,169 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.1/javax.persistence-2.1.1.jar
+2016-08-15 12:26:18,284 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.1/javax.persistence-2.1.1.jar
+2016-08-15 12:26:18,769 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1.jar
+2016-08-15 12:26:19,847 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1.jar
+2016-08-15 12:26:20,206 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar
+2016-08-15 12:26:21,238 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar
+2016-08-15 12:26:21,644 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-cors/3.1.7/cxf-rt-rs-security-cors-3.1.7.jar
+2016-08-15 12:26:22,769 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-cors/3.1.7/cxf-rt-rs-security-cors-3.1.7.jar
+2016-08-15 12:26:23,284 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-core/3.1.7/cxf-core-3.1.7.jar
+2016-08-15 12:26:27,580 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-core/3.1.7/cxf-core-3.1.7.jar
+2016-08-15 12:26:28,088 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.jar
+2016-08-15 12:26:29,930 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.jar
+2016-08-15 12:26:30,451 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.jar
+2016-08-15 12:26:31,787 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.jar
+2016-08-15 12:26:32,188 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/ws/xmlschema/xmlschema-core/2.2.1/xmlschema-core-2.2.1.jar
+2016-08-15 12:26:33,362 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/ws/xmlschema/xmlschema-core/2.2.1/xmlschema-core-2.2.1.jar
+2016-08-15 12:26:33,820 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/3.1.7/cxf-rt-frontend-jaxrs-3.1.7.jar
+2016-08-15 12:26:36,509 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/3.1.7/cxf-rt-frontend-jaxrs-3.1.7.jar
+2016-08-15 12:26:36,992 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar
+2016-08-15 12:26:38,250 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar
+2016-08-15 12:26:38,614 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/3.1.7/cxf-rt-transports-http-3.1.7.jar
+2016-08-15 12:26:40,901 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/3.1.7/cxf-rt-transports-http-3.1.7.jar
+2016-08-15 12:26:41,291 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-oauth2/3.1.7/cxf-rt-rs-security-oauth2-3.1.7.jar
+2016-08-15 12:26:43,463 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-oauth2/3.1.7/cxf-rt-rs-security-oauth2-3.1.7.jar
+2016-08-15 12:26:43,792 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-jose-jaxrs/3.1.7/cxf-rt-rs-security-jose-jaxrs-3.1.7.jar
+2016-08-15 12:26:44,687 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-jose-jaxrs/3.1.7/cxf-rt-rs-security-jose-jaxrs-3.1.7.jar
+2016-08-15 12:26:45,189 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-security/3.1.7/cxf-rt-security-3.1.7.jar
+2016-08-15 12:26:46,155 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-security/3.1.7/cxf-rt-security-3.1.7.jar
+2016-08-15 12:26:46,525 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-jose/3.1.7/cxf-rt-rs-security-jose-3.1.7.jar
+2016-08-15 12:26:47,974 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-security-jose/3.1.7/cxf-rt-rs-security-jose-3.1.7.jar
+2016-08-15 12:26:48,287 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-json-basic/3.1.7/cxf-rt-rs-json-basic-3.1.7.jar
+2016-08-15 12:26:49,290 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-json-basic/3.1.7/cxf-rt-rs-json-basic-3.1.7.jar
+2016-08-15 12:26:49,697 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-client/3.1.7/cxf-rt-rs-client-3.1.7.jar
+2016-08-15 12:26:50,821 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-client/3.1.7/cxf-rt-rs-client-3.1.7.jar
+2016-08-15 12:26:51,234 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thetransactioncompany/cors-filter/2.5/cors-filter-2.5.jar
+2016-08-15 12:26:52,154 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thetransactioncompany/cors-filter/2.5/cors-filter-2.5.jar
+2016-08-15 12:26:52,561 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thetransactioncompany/java-property-utils/1.9.1/java-property-utils-1.9.1.jar
+2016-08-15 12:26:53,320 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thetransactioncompany/java-property-utils/1.9.1/java-property-utils-1.9.1.jar
+2016-08-15 12:26:53,644 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.jar
+2016-08-15 12:26:54,658 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.jar
+2016-08-15 12:26:54,962 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.5/javax.mail-1.5.5.jar
+2016-08-15 12:26:57,900 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/mail/javax.mail/1.5.5/javax.mail-1.5.5.jar
+2016-08-15 12:26:58,280 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.jar
+2016-08-15 12:26:59,232 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.jar
+2016-08-15 12:26:59,612 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-core/1.1.4.RELEASE/spring-social-core-1.1.4.RELEASE.jar
+2016-08-15 12:27:00,648 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-core/1.1.4.RELEASE/spring-social-core-1.1.4.RELEASE.jar
+2016-08-15 12:27:01,336 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-facebook/2.0.3.RELEASE/spring-social-facebook-2.0.3.RELEASE.jar
+2016-08-15 12:27:02,824 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-facebook/2.0.3.RELEASE/spring-social-facebook-2.0.3.RELEASE.jar
+2016-08-15 12:27:03,220 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.1/jackson-core-2.6.1.jar
+2016-08-15 12:27:05,493 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.1/jackson-core-2.6.1.jar
+2016-08-15 12:27:05,881 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.1/jackson-databind-2.6.1.jar
+2016-08-15 12:27:12,613 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.1/jackson-databind-2.6.1.jar
+2016-08-15 12:27:12,933 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-config/1.1.4.RELEASE/spring-social-config-1.1.4.RELEASE.jar
+2016-08-15 12:27:13,897 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-config/1.1.4.RELEASE/spring-social-config-1.1.4.RELEASE.jar
+2016-08-15 12:27:14,250 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.1/jackson-annotations-2.6.1.jar
+2016-08-15 12:27:15,851 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.1/jackson-annotations-2.6.1.jar
+2016-08-15 12:27:16,519 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-security/1.1.4.RELEASE/spring-social-security-1.1.4.RELEASE.jar
+2016-08-15 12:27:18,683 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-security/1.1.4.RELEASE/spring-social-security-1.1.4.RELEASE.jar
+2016-08-15 12:27:19,919 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-web/1.1.4.RELEASE/spring-social-web-1.1.4.RELEASE.jar
+2016-08-15 12:27:23,180 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-web/1.1.4.RELEASE/spring-social-web-1.1.4.RELEASE.jar
+2016-08-15 12:27:23,892 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-twitter/1.1.2.RELEASE/spring-social-twitter-1.1.2.RELEASE.jar
+2016-08-15 12:27:25,580 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/social/spring-social-twitter/1.1.2.RELEASE/spring-social-twitter-1.1.2.RELEASE.jar
+2016-08-15 12:27:25,888 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/3.2.8.RELEASE/spring-security-crypto-3.2.8.RELEASE.jar
+2016-08-15 12:27:27,292 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/3.2.8.RELEASE/spring-security-crypto-3.2.8.RELEASE.jar
+2016-08-15 12:27:48,060 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sts.core:StsCore:0.0.1-SNAPSHOT @ F:\Project\ankit\StsCore\pom.xml.
+2016-08-15 12:27:48,128 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 12:27:48,160 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 12:27:48,236 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 12:27:48,236 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 12:27:52,072 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 12:27:52,131 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 12:27:52,223 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 12:27:52,227 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 12:27:52,574 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sts.core:StsCore:0.0.1-SNAPSHOT @ F:\Project\ankit\StsCore\pom.xml.
+2016-08-15 12:27:55,252 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 12:27:55,256 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 12:27:55,260 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 12:27:55,260 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 13:24:09,494 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-15 13:27:18,615 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-08-15 13:27:42,415 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Project\ankit\StsCore
+2016-08-15 13:27:42,415 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B mvn package
+2016-08-15 13:27:46,373 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sts.core:StsCore:0.0.1-SNAPSHOT @ F:\Project\ankit\StsCore\pom.xml.
+2016-08-15 13:27:48,163 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:27:48,169 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 13:27:48,179 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:27:48,179 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 13:33:29,160 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-08-15 13:33:29,241 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Project\ankit\StsCore
+2016-08-15 13:33:29,241 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B mvn package
+2016-08-15 13:33:40,742 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-15 13:33:46,858 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Project\ankit\StsCore
+2016-08-15 13:33:46,859 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B mvn install
+2016-08-15 13:39:24,153 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-08-15 13:39:24,322 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sts.core:StsCore:0.0.1-SNAPSHOT @ F:\Project\ankit\StsCore\pom.xml.
+2016-08-15 13:39:28,451 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StsCore/src/main/java
+2016-08-15 13:39:28,452 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StsCore/src/main/resources
+2016-08-15 13:39:28,486 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StsCore/src/test/java
+2016-08-15 13:39:29,308 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sts.core:StsCore:0.0.1-SNAPSHOT @ F:\Project\ankit\StsCore\pom.xml.
+2016-08-15 13:39:29,956 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-08-15 13:39:32,177 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:39:32,178 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 13:39:32,242 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:39:32,242 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 13:40:22,419 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-15 13:40:30,277 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Project\ankit\StsCore
+2016-08-15 13:40:30,277 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B mvn clean
+2016-08-15 13:41:19,461 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-15 13:41:37,696 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Project\ankit\StsCore
+2016-08-15 13:41:37,697 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B maven build
+2016-08-15 13:42:49,814 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-15 13:42:58,046 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Project\ankit\StsCore
+2016-08-15 13:42:58,046 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-08-15 13:45:49,019 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sts.core:StsCore:0.0.1-SNAPSHOT @ F:\Project\ankit\StsCore\pom.xml.
+2016-08-15 13:45:50,425 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:45:50,425 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-15 13:45:50,425 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:45:50,425 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 13:46:12,713 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-15 13:46:21,042 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Project\ankit\StsCore
+2016-08-15 13:46:21,042 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-08-15 13:51:41,745 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:51:41,745 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-15 13:51:41,745 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:51:41,745 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 13:52:07,760 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-15 13:52:17,104 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Project\ankit\StsCore
+2016-08-15 13:52:17,104 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-08-15 13:56:18,900 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:56:18,900 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 13:56:18,947 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:56:18,947 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 13:56:23,011 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sts.core:StsCore:0.0.1-SNAPSHOT @ F:\Project\ankit\StsCore\pom.xml.
+2016-08-15 13:56:27,190 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:56:27,190 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 13:56:27,205 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:56:27,205 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 13:56:46,558 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-08-15 13:56:46,698 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sts.core:StsCore:0.0.1-SNAPSHOT @ F:\Project\ankit\StsCore\pom.xml.
+2016-08-15 13:56:47,901 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StsCore/src/main/java
+2016-08-15 13:56:47,901 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StsCore/src/main/resources
+2016-08-15 13:56:47,901 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StsCore/src/test/java
+2016-08-15 13:56:48,229 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sts.core:StsCore:0.0.1-SNAPSHOT @ F:\Project\ankit\StsCore\pom.xml.
+2016-08-15 13:56:48,744 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-08-15 13:56:49,994 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:56:49,994 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 13:56:50,010 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 13:56:50,010 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 13:56:57,823 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-15 13:57:06,193 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Project\ankit\StsCore
+2016-08-15 13:57:06,193 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-08-15 14:01:01,437 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 14:01:01,438 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 14:01:01,451 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 14:01:01,452 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 14:01:10,216 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sts.core:StsCore:0.0.1-SNAPSHOT @ F:\Project\ankit\StsCore\pom.xml.
+2016-08-15 14:01:12,340 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 14:01:12,341 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 14:01:12,350 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 14:01:12,350 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 14:01:27,413 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Project\ankit\StsCore
+2016-08-15 14:01:27,413 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-08-15 14:04:17,622 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 14:04:17,622 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 14:04:17,622 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 14:04:17,622 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 14:04:18,656 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 14:04:18,656 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 14:04:18,656 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 14:04:18,656 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 14:39:17,560 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 14:39:17,560 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 14:39:17,560 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 14:39:17,560 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 14:39:27,297 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 14:39:27,297 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-15 14:39:27,297 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-15 14:39:27,297 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Project\ankit\StsCore\src\test\resources
+2016-08-15 14:40:14,135 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Project\ankit\StsCore
+2016-08-15 14:40:14,135 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean compile package
